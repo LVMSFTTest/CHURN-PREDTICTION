@@ -35,11 +35,7 @@ Welcome to the Churn Prediction Model Repository! This repository contains Pytho
 
 - **/notebooks:** Contains Jupyter notebooks demonstrating the step-by-step process of building and evaluating churn prediction models.
 
-- **/scripts:** Python scripts for preprocessing data, training models, and evaluating performance.
-
 - **/data:** Dataset files used for training and testing the models.
-
-- **/results:** Stores model evaluation metrics, visualizations, and other outputs generated during the analysis.
 
 ## Getting Started:
 
